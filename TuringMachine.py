@@ -70,20 +70,3 @@ print(SolveDemo(brain4, strip, alphabet, 2))
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
